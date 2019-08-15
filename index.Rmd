@@ -1,7 +1,6 @@
 ---
 title: "Data Visualization with R"
-author: "NCSU Libraries"
-date: "2/1/2019"
+author: "NC State University Libraries"
 output: 
   revealjs::revealjs_presentation:
     theme: white
